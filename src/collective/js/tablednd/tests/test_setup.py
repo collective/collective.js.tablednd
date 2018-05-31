@@ -27,6 +27,6 @@ class TestSetup(unittest.TestCase):
 
     def test_browserlayer(self):
         """Test that ICollectiveJsTableDNDLayer is registered."""
-        from collective.js.tooltipster.interfaces import ICollectiveJsTableDNDLayer
+        from collective.js.tablednd.interfaces import ICollectiveJsTableDNDLayer
         from plone.browserlayer import utils
         self.assertIn(ICollectiveJsTableDNDLayer, utils.registered_layers())

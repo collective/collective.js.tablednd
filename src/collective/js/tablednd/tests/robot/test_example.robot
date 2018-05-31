@@ -14,7 +14,7 @@
 #
 # 2) Run robot tests:
 #
-# $ bin/robot src/collective/js/tooltipster/tests/robot/test_example.robot
+# $ bin/robot src/collective/js/tablednd/tests/robot/test_example.robot
 #
 # See the http://docs.plone.org for further details (search for robot
 # framework).
