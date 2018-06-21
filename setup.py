@@ -19,7 +19,7 @@ long_description = (
 
 setup(
     name='collective.js.tablednd',
-    version='0.1',
+    version='0.2.dev0',
     description="Plone integration of TableDND jquery plugin",
     long_description=long_description,
     # Get more from http://pypi.python.org/pypi?%3Aaction=list_classifiers
